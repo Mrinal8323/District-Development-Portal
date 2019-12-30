@@ -1,0 +1,90 @@
+body{
+background-image: url(http://lawsca.org/wp-content/uploads/2016/02/In-Blue-Only-Yet-There-Really-Are-Changes-You-Won-t-Ever-be-Bored-in-Vision-HD-Single-Color-Wallpaper1.jpg);
+}
+
+
+p{
+  padding-top:5px;
+}
+h1
+{
+  color: blue;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.container{
+  background-color:red;
+}
+form{
+  font-size: 1.5em
+}
+
+.sattu_fn{
+  margin-left: 120px;
+
+}
+
+.satu_fn{
+  margin-left: 80px;
+}
+
+.sattu_ln{
+  margin-left: 100px;
+}
+
+.satu_ln{
+  margin-left: 85px;
+}
+
+.satu_email{
+  margin-left: 125px;
+}
+
+.satu_pswrd{
+  margin-left: 80px;
+}
+.satu_cntry{
+  margin-left: 59px;
+}
+#sattu_gndr{
+  margin-left: 120px;
+}
+
+.sattu_m{
+  margin-left: 115px;
+}
+
+.sattu_f{
+  margin-left: 95px;
+
+}
+
+
+
+.DOB_y{
+  margin-left: 12px;
+  
+}
+.satu_mob{
+  margin-left: 88px;
+}
+.sattu_pswrd{
+  margin-left: 120px;
+}
+.sattu_cpswrd{
+  margin-left: 100px;
+}
+.satu_Cpswrd{
+  margin-left: 0px;
+}
+.sattu_btn{
+  text-align: center;
+}
+
+.sattu_Ins{
+  margin-left: 103px;
+}
+.satu_Ins{
+  margin-left: 108px;
+}

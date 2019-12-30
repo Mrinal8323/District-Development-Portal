@@ -1,0 +1,140 @@
+#container1{
+  width:60%;
+  height: 300px;
+  border: 1px solid black;
+  margin: 0 auto;
+  position: relative;
+  box-shadow: 10px 10px 10px 10px grey;
+
+}
+
+#container1>img{
+  width: 100%;
+  height:100%;
+  position: absolute;
+}
+
+#sattu_hed{
+  padding-left: 200px;
+  padding-top: 30px;
+
+}
+#sattu_logo1{
+  padding-left: 15px;
+  padding-bottom: 60px;
+}
+
+#sattu_nav{
+background-color: 	#d7c797;
+
+}
+
+#container1>.btn{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  top:200px;
+  background: black;
+  color:white;
+  font-size:20px;
+}
+
+#sattu_h2{
+  font-family: 'AbibasMedium';
+font-weight: normal;
+font-style: normal;
+text-shadow: 100px;
+}
+
+#sattu_logo1{
+  margin-bottom: 0px;
+  margin-top:  50px;
+  margin-left: 40px;
+}
+
+#container1>#btn1:hover{
+  box-shadow: 10px 0px 20px 0px black;
+}
+#container1>#btn2:hover{
+  box-shadow: -10px 0px 20px 0px black;
+}
+#container1>#btn2{
+  position: relative;
+  float:right;
+}
+
+#sattu_bdy {
+    font-family: "Lato", sans-serif;
+    background-color: #eee;
+}
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #eee;
+    overflow-x: hidden;
+    padding-top: 80px;
+    background-color: #845422;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+.jumbotron{
+  padding-bottom: 0px;
+  background-color: #e5e5e5;
+}
+#sattu_btn{
+  padding-left: 15px;
+  padding-right: 90px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#sattu_btn2s{
+  padding-right: 73px;
+}
+#sattu_btn3s{
+  padding-right: 76px;
+}
+#sattu_btn1s{
+  padding-right: 33px;
+}
+
+#sattu_btn1{
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 6px;
+}
+#sattu_btn2{
+  margin-right: 10px;
+}
+
+#sattu_btn2p{
+  padding-bottom: 30px;
+  padding-top: 3px;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.main {
+    margin-left: 160px;
+    font-size: 28px;
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
